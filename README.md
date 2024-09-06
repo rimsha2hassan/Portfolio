@@ -80,6 +80,31 @@ A comprehensive Postman collection used for testing various endpoints of the Sim
 - Request chaining for automated workflows
 - Pagination validation to verify correct item counts per page
 
+
+## 2. [Online Store Database Testing](https://github.com/rimsha2hassan/Online-Store-Database-Testing)
+### Description:
+This project focuses on comprehensive database testing for an online store application. The database schema includes tables for products, categories, orders, customers, and reviews. The primary objective is to ensure data integrity, verify the handling of concurrent transactions, and assess the performance of SQL queries. This project involves creating test cases for various SQL operations, including data retrieval, updates, and integrity checks, and documenting the testing process with detailed reports.
+
+### Repository: [Online Store Database Testing](https://github.com/rimsha2hassan/Online-Store-Database-Testing)
+### Features:
+**Schema Validation:**
+
+- Table Creation: Ensure the database schema is correctly implemented by verifying the creation of all required tables with the correct structure and relationships.
+- Column Constraints: Validate column constraints such as primary keys, foreign keys, and data types.
+
+**Data Integrity Testing:**
+- CRUD Operations: Test Create, Read, Update, and Delete operations to ensure data integrity and consistency.
+- Referential Integrity: Verify that foreign key relationships between tables are maintained correctly.
+
+Query Validation:
+- Data Retrieval: Validate SQL queries for retrieving data, including SELECT statements with various conditions and filters.
+- Aggregations: Test aggregation functions such as COUNT, SUM, and MIN to ensure accurate calculations.
+- Complex Queries: Verify the correctness of complex queries involving joins, and grouping.
+
+**Schema Relationships:**
+- One-to-Many Relationships: Verify that one-to-many relationships (e.g., Products to Categories) are correctly implemented and queried.
+-  Many-to-Many Relationships: Test many-to-many relationships (e.g., Customers to Products via Reviews) for correctness and performance.
+
 ***
 
 
