@@ -96,7 +96,7 @@ This project focuses on comprehensive database testing for an online store appli
 - CRUD Operations: Test Create, Read, Update, and Delete operations to ensure data integrity and consistency.
 - Referential Integrity: Verify that foreign key relationships between tables are maintained correctly.
 
-Query Validation:
+**Query Validation:**
 - Data Retrieval: Validate SQL queries for retrieving data, including SELECT statements with various conditions and filters.
 - Aggregations: Test aggregation functions such as COUNT, SUM, and MIN to ensure accurate calculations.
 - Complex Queries: Verify the correctness of complex queries involving joins, and grouping.
