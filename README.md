@@ -7,6 +7,8 @@ I am a dedicated QA professional with extensive experience in various aspects of
 
 You can find my projects relevant to my skills in Projects section.
 
+## Unveiling My Professional Profile 📊🌟
+
 ## Tech Skills 💡🔧
 - **Manual Testing**: Functional Testing, Regression Testing, UAT, Sotware Testing, Smoke Testing, Exploratory Test, Boundary Value Analysis, Equivalence Class Analysis
 - **Automation Testing**: Selenium, Postman, TestNG
